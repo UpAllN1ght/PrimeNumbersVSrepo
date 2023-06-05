@@ -1,0 +1,11 @@
+C:\programare-vizuala\IXDvisual\NumerePrime\NumerePrime\obj\Debug\NumerePrime.csproj.AssemblyReference.cache
+C:\programare-vizuala\IXDvisual\NumerePrime\NumerePrime\obj\Debug\NumerePrime.csproj.SuggestedBindingRedirects.cache
+C:\programare-vizuala\IXDvisual\NumerePrime\NumerePrime\obj\Debug\NumerePrime.Form1.resources
+C:\programare-vizuala\IXDvisual\NumerePrime\NumerePrime\obj\Debug\NumerePrime.Properties.Resources.resources
+C:\programare-vizuala\IXDvisual\NumerePrime\NumerePrime\obj\Debug\NumerePrime.csproj.GenerateResource.cache
+C:\programare-vizuala\IXDvisual\NumerePrime\NumerePrime\obj\Debug\NumerePrime.csproj.CoreCompileInputs.cache
+C:\programare-vizuala\IXDvisual\NumerePrime\NumerePrime\bin\Debug\NumerePrime.exe.config
+C:\programare-vizuala\IXDvisual\NumerePrime\NumerePrime\bin\Debug\NumerePrime.exe
+C:\programare-vizuala\IXDvisual\NumerePrime\NumerePrime\bin\Debug\NumerePrime.pdb
+C:\programare-vizuala\IXDvisual\NumerePrime\NumerePrime\obj\Debug\NumerePrime.exe
+C:\programare-vizuala\IXDvisual\NumerePrime\NumerePrime\obj\Debug\NumerePrime.pdb
